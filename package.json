@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/quae-eaque-nesciunt-necessitatibus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -616,5 +616,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/quae-eaque-nesciunt-necessitatibus/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1"
 }
